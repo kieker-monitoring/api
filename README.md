@@ -1,6 +1,6 @@
 # Kieker Javadoc API
 
-This repository includes the unpacked HTML versions [Kieker](http://kieker-monitoring.net/)'s Javadoc APIs starting from Kieker version 1.2.
+This repository includes the online version of [Kieker](http://kieker-monitoring.net/)'s Javadoc APIs starting from Kieker version 1.2.
 
 - [1.13](1.13/)
 - [1.12](1.12/)
