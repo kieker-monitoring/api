@@ -2,6 +2,7 @@
 
 This repository includes the online version of [Kieker](http://kieker-monitoring.net/)'s Javadoc APIs starting from Kieker version 1.2.
 
+- [1.14](1.14/)
 - [1.13](1.13/)
 - [1.12](1.12/)
 - [1.11](1.11/)
