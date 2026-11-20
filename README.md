@@ -1,7 +1,8 @@
-# Kieker Javadoc API
+# Kieker Observability Framework Javadoc API
 
 This repository includes the online version of [Kieker](http://kieker-monitoring.net/)'s Javadoc APIs starting from Kieker version 1.2.
 
+- [2.0.4](2.0.4/)
 - [2.0.3](2.0.3/)
 - [2.0.2](2.0.2/)
 - [1.15](1.15/)
